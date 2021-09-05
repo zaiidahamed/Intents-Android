@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple-Calculator</string>
+    <string name="btnOk">Ok</string>
+    <string name="lblNo1">Number 1</string>
+    <string name="lblNo2">Number 2</string>
+    <string name="editTextNo1" />
+    <string name="results">Results</string>
+    <string name="btnSum">+</string>
+    <string name="btnMin">-</string>
+    <string name="btnMulti">*</string>
+    <string name="btnDivide">/</string>
+    <string name="btnClear">Clear</string>
+</resources>
